@@ -19,5 +19,8 @@ const marija = {
 }
 ```
 ## 🤝🏻 Connect with Me
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
-
+Contact me on the links below:
+* <a href="mailto:jelcic.marija@gmail.com">Gmail</a>
+* [Linkedin](https://www.linkedin.com/in/marija-jel%C4%8Di%C4%87-1b958a24a)
+  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"  > I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 
