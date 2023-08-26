@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, I'm Marija Jelčić! 👋
+_Elementary School Teacher_
+_Beginner developer_
 
 
 ```
