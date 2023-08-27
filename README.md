@@ -1,6 +1,8 @@
 <img src="https://github.com/Mara1395/Mara1395/assets/104097778/4a45fdeb-6065-4165-8b4e-4033edc204e9" align='right' width="230"  />
 
-# Hi, I'm Marija Jelčić! 👋
+# Hello, World! 👋
+
+### Marija Jelčić
 _Elementary School Teacher_
 <br>
 _Beginner Developer_
