@@ -7,7 +7,7 @@ _Elementary School Teacher_
 <br>
 _Beginner Developer_
 
-## About Me
+## ✏️ About Me
 I'm Marija Jelčić, an elementary school teacher with a burning passion for frontend development and programming. My journey began in the classroom, where I fostered young minds and ignited a love for learning. As I delved into the world of education, I discovered another avenue for my creativity and curiosity - coding.
 
 ## 🌱 Currently Growing
