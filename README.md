@@ -1,4 +1,4 @@
-<img src="https://github.com/Mara1395/Mara1395/assets/104097778/e5080f1d-6cd1-4f38-88cf-b1bc4fb255ab" align='right' width="230"  />
+<img src="https://github.com/Mara1395/Mara1395/assets/104097778/4a45fdeb-6065-4165-8b4e-4033edc204e9" align='right' width="230"  />
 
 # Hi, I'm Marija Jelčić! 👋
 _Elementary School Teacher_
@@ -6,8 +6,6 @@ _Elementary School Teacher_
 _Beginner Developer_
 
 ## Introduction
-
-
 
 
 ```
