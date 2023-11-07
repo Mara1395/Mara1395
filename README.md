@@ -14,6 +14,7 @@ I'm Marija Jelčić, an elementary school teacher with a burning passion for fro
 * I’m currently working in an elementary school, where I continue to inspire and educate future generations.
 * On the side, I'm delving into the world of programming, creating projects that blend my teaching expertise with my love for frontend development.
 * I am improving myself through languages ​​such as JavaScript and TypeScript.
+* In addition to programming, I am also developing skills in the field of SEO and marketing.
 * I'm enthusiastic about React and enjoy crafting interactive user interfaces that bring ideas to life.
 
 ```
