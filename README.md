@@ -5,7 +5,7 @@
 ### Marija Jelčić
 _Elementary School Teacher_
 <br>
-_Beginner Developer_
+_Beginner Frontend Developer_
 
 ## ✏️ About Me
 I'm Marija Jelčić, an elementary school teacher with a burning passion for frontend development and programming. My journey began in the classroom, where I fostered young minds and ignited a love for learning. As I delved into the world of education, I discovered another avenue for my creativity and curiosity - coding.
@@ -13,14 +13,14 @@ I'm Marija Jelčić, an elementary school teacher with a burning passion for fro
 ## 🌱 Currently Growing
 * I’m currently working in an elementary school, where I continue to inspire and educate future generations.
 * On the side, I'm delving into the world of programming, creating projects that blend my teaching expertise with my love for frontend development.
-* I am improving myself through languages ​​such as JavaScript, TypeScript, HTML, CSS and even Python.
+* I am improving myself through languages ​​such as JavaScript and TypeScript.
 * I'm enthusiastic about React and enjoy crafting interactive user interfaces that bring ideas to life.
 
 ```
 const marija = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Docker],
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node],
   challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
 }
 ```
