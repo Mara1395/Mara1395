@@ -20,7 +20,7 @@ I'm Marija Jelčić, an elementary school teacher with a burning passion for fro
 const marija = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node],
+  tools: [React, Node, Git, WordPress],
   challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
 }
 ```
