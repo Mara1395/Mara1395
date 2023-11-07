@@ -2,15 +2,15 @@
 
 # Hello, World! 👋
 
-### Marija Jelčić
+## Marija Jelčić
 _Elementary School Teacher_
 <br>
 _Beginner Frontend Developer_
 
-## ✏️ About Me
+### ✏️ About Me
 I'm Marija Jelčić, an elementary school teacher with a burning passion for frontend development and programming. My journey began in the classroom, where I fostered young minds and ignited a love for learning. As I delved into the world of education, I discovered another avenue for my creativity and curiosity - coding.
 
-## 🌱 Currently Growing
+### 🌱 Currently Growing
 * I’m currently working in an elementary school, where I continue to inspire and educate future generations.
 * On the side, I'm delving into the world of programming, creating projects that blend my teaching expertise with my love for frontend development.
 * I am improving myself through languages ​​such as JavaScript and TypeScript.
@@ -26,11 +26,11 @@ const marija = {
 ```
 
 
-## 💡 Future Aspirations
+### 💡 Future Aspirations
 While my heart remains in the classroom, I'm also nurturing dreams of progressing further in the programming realm. The fusion of education and technology offers boundless possibilities, and I'm excited to explore how I can contribute to both fields.
 
 
-## 🤝🏻 Connect with Me
+### 🤝🏻 Connect with Me
 I'm always excited to connect with fellow developers, educators, and anyone interested in making a positive impact. Feel free to reach out to me via: 
 
 * 📧 <a href="mailto:jelcic.marija@gmail.com">Gmail</a>
